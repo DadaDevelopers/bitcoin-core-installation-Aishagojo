@@ -1,0 +1,23 @@
+{
+  "walletname": "mywallet",
+  "walletversion": 169900,
+  "format": "sqlite",
+  "balance": 5100.00000000,
+  "unconfirmed_balance": 0.00000000,
+  "immature_balance": 3675.00000000,
+  "txcount": 202,
+  "keypoolsize": 4000,
+  "keypoolsize_hd_internal": 4000,
+  "paytxfee": 0.00000000,
+  "private_keys_enabled": true,
+  "avoid_reuse": false,
+  "scanning": false,
+  "descriptors": true,
+  "external_signer": false,
+  "blank": false,
+  "birthtime": 1762861308,
+  "lastprocessedblock": {
+    "hash": "6d14c36ae21406dfcf69a80f5898b130cef030e73d40967cf7d1ed14853ba75e",
+    "height": 202
+  }
+}
